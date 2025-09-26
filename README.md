@@ -30,20 +30,20 @@ Here are some of the technologies I've been working with:
 
 📊 My GitHub Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AlejoBarriosDev%26show_icons=true%26theme=radical%26hide_border=true%26count_private=true" alt="Alejandro's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejoBarriosDev%26layout=compact%26theme=radical%26hide_border=true" alt="Alejandro's Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=AlejoBarriosDev&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Alejandro's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejoBarriosDev&layout=compact&theme=radical&hide_border=true" alt="Alejandro's Top Languages" />
 </div>
 
 📫 How to Reach Me
 <p align="center">
 <a href="https://alejobarrios.dev" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge%26logo=About.me%26logoColor=white" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://www.linkedin.com/in/alejobarrios/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge%26logo=linkedin%26logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:me@alejobarrios.dev">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge%26logo=gmail%26logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 </p>
 
@@ -76,13 +76,13 @@ Estas son algunas de las tecnologías con las que he trabajado:
 📫 Contáctame
 <p align="center">
 <a href="https://alejobarrios.dev" target="_blank">
-<img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge%26logo=About.me%26logoColor=white" alt="Portafolio"/>
+<img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portafolio"/>
 </a>
 <a href="https://www.linkedin.com/in/alejobarrios/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge%26logo=linkedin%26logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:me@alejobarrios.dev">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge%26logo=gmail%26logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 </p>
 
