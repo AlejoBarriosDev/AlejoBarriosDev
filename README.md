@@ -87,7 +87,3 @@ Estas son algunas de las tecnologías con las que he trabajado:
 </p>
 
 </details>
-
-<p align="center">
-<em>Created from my CV with a little help from AI ✨</em>
-</p>
